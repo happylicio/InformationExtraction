@@ -1,0 +1,5 @@
+*.pyc
+*.pred
+.DS_Store
+*/output.tag
+lib/
